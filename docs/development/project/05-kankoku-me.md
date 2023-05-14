@@ -1,3 +1,7 @@
+---
+title: kankoku.me | 韓国の名前変換器
+---
+
 # kankoku.me
 
 [Web](https://www.kankoku.me)
